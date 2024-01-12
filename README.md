@@ -25,3 +25,31 @@
   <li>Focused on surpassing the provided Gini index reference</li>
 </ul>
 
+<h2><b>Key Challenges</b></h2>
+<ul>
+  <li>Translating complex statistical concepts for a non-statistical audience.</li>
+  <li>Balancing the accuracy and interpretability of the model.</li>
+  <li>Competing with other market players using a robust predictive model.</li>
+</ul>
+
+<h2><b>Results and Business Impact</b></h2>
+<ul>
+  <li>Developed a model that improved upon the benchmark Gini index.</li>
+  <li>Provided a clear and understandable presentation of our methods and findings to our business partner.</li>
+  <li>Enhanced the company's ability to segment risks and price policies more competitively.</li>
+</ul>
+
+<h2>Lessons Learned</h2>
+<ul>
+  <li>Importance of clear communication in a technical context.</li>
+  <li>The value of iterative modeling and frequent validation.</li>
+  <li>Navigating competitive market dynamics with data-driven strategies.</li>
+</ul>
+
+<h2><b>Future Work</b></h2>
+<ul>
+  <li>Explore further enhancements in predictive modeling techniques.</li>
+  <li>Consider external factors such as economic conditions in future models.</li>
+</ul>
+
+
